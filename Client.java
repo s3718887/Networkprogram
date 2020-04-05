@@ -4,7 +4,7 @@ import java.net.Socket;
 public class Client
 {
     private final static String ADDRESS = "netprog1.csit.rmit.edu.au";
-    private final static int PORT = 61141;
+    private final static int PORT = 61586;
 
     private Socket connection;
 
