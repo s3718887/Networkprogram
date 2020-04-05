@@ -4,7 +4,7 @@ import java.net.Socket;
 
 public class Server
 {
-    private final static int PORT = 61141 ;
+    private final static int PORT = 61586 ;
 
     private Socket connection;
 
